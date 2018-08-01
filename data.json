@@ -42,6 +42,17 @@
     "title":"operating system",
     "set":["dos","windows","linux","mac"]
   }
-  ]
+],
+  "achievement": [
+    {
+    "achievedData":"got 1 <sup>st</sup> prize in ppt presentatoin."
 
+  },
+  {
+      "achievedData":"got iot 2<sup>nd</sup> position my college "
+  },
+  {
+      "achievedData":"got 2 <sup>nd</sup>  prize ad's up "
+  }
+]
 }
