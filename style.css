@@ -107,7 +107,61 @@ text-decoration: none;
   }
   .mail{
   text-decoration: none;
+}
+}
+@media only screen and (min-width:481px) and (max-width:768px){
+  .parent{
 
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
 
   }
+  .child{
+   border: 2px solid #10F73E;
+   padding: 2%;
+   margin: 2%;
+   box-shadow: 3px 3px 3px #10F73E;
+
+  }
+  img{
+    width:200px;
+
+    border-radius:50%
+    border:2px solid #10F73E;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  h2,
+  h3{
+  text-align: center;
+
+  }
+  .a{
+    display: block;
+    text-align:center;
+    text-decoration: none;
+    background: #10F73E
+    color:#fff;
+    padding: 2%;
+  }
+  .leftChild{
+    width:50%;
+    border:2px solid #ddd;
+    padding: 2%;
+    margin: 2%;
+    text-align: center;
+
+  }
+  .rightChild{
+    width: 50%;
+    border:2px solid #ddd;
+    padding: 2%;
+    margin: 2%;
+  }
+  .mail{
+  text-decoration: none;
+}
+
 }
