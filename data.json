@@ -23,6 +23,25 @@
       "institute":"zphs pannur",
       "data":["2016-19","74%"]
     }
+  ],
+  "skills":[
+    {
+      "title":"programing languages",
+      "set":["java","c","python","c++"]
+    },
+  {
+    "title":"web technology",
+    "set":["html","css","php","javascript"]
+
+  },
+  {
+    "title":"data bases",
+    "set":["sql","mysql","oracle","nosql"]
+  },
+  {
+    "title":"operating system",
+    "set":["dos","windows","linux","mac"]
+  }
   ]
 
 }
