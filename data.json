@@ -1,5 +1,28 @@
 {
   "career":{
     "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
-  }
+  },
+  "education":[
+    {
+      "degree":"MCA(computer science)",
+      "institute":"sietk puttur",
+      "data":["2016-19","74%"]
+    },
+    {
+      "degree":"Bsc",
+      "institute":"srs puttur",
+      "data":["2016-19","74%"]
+    },
+    {
+      "degree":"mpc",
+      "institute":"k.s.jr college nagari",
+      "data":["2016-19","74%"]
+    },
+    {
+      "degree":"secondary education",
+      "institute":"zphs pannur",
+      "data":["2016-19","74%"]
+    }
+  ]
+
 }
